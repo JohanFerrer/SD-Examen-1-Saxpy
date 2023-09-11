@@ -41,7 +41,7 @@ int main(int argc, char *argv[]) {
     get_walltime(&E1);
 
     get_walltime(&S2);
-    //combinación 5 
+    //combinación 6
     for (k = 0; k < n; ++k) {
         for (j = 0; j < n; ++j) {
             matrizC[k][j] = 0; // Inicializa la matriz C en 0
